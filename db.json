@@ -9,8 +9,14 @@
       "category": "Novel",
       "release_year": 2019,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -22,8 +28,14 @@
       "category": "Science_Fiction",
       "release_year": 2020,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -35,8 +47,14 @@
       "category": "Novel",
       "release_year": 2021,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -48,8 +66,14 @@
       "category": "Science_Fiction",
       "release_year": 2022,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -61,8 +85,14 @@
       "category": "Thriller",
       "release_year": 2018,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -74,8 +104,14 @@
       "category": "Thriller",
       "release_year": 2017,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -87,8 +123,14 @@
       "category": "Novel",
       "release_year": 2016,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -100,8 +142,14 @@
       "category": "Science_Fiction",
       "release_year": 2015,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -113,8 +161,14 @@
       "category": "Motivational",
       "release_year": 2014,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
     },
     {
@@ -126,9 +180,52 @@
       "category": "Motivational",
       "release_year": 2013,
       "chapters": [
-        { "name": "HTML", "pages": 20 },
-        { "name": "CSS", "pages": 25 }
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
       ]
+    }
+  ],
+  "todos": [
+    {
+      "title": "nageshwar",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "bholu",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "shivam",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "ramesh",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "suresh",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "yadav",
+      "status": false,
+      "id": 7
     }
   ]
 }
